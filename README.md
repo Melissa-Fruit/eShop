@@ -38,6 +38,16 @@ In the view:
 With require once we link it to the called filles.
 The view consist of files, the code that used tho display wat the users see
 
+## ScreenShots of the site
+
+![category page ](screen/eShop4.png)
+
+![category page ](screen/eShop5.png)
+
+![category page ](screen/eShop6.png)
+
+![category page ](screen/eShop7.png)
+
 BeCode Challenge
 
 - Repository: OOP
