@@ -42,9 +42,11 @@ The view consist of files, the code that used tho display wat the users see
 
 ![category page ](screen/eShop4.png)
 
-![category page ](screen/eShop5.png)
+
+
 
 ![category page ](screen/eShop6.png)
+
 
 ![category page ](screen/eShop7.png)
 
